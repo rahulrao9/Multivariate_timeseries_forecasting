@@ -31,6 +31,6 @@ Experiment with different hyperparameters, preprocessing techniques, and model a
 Document your findings, insights, and observations in the notebooks and share them with the community.
 Feel free to explore the code, experiment with different datasets, and adapt it to your specific needs. I hope this repository serves as a helpful resource for understanding and implementing multivariate time-series forecasting using LSTM for small datasets.
 
-***If you find this repository useful, kindly consider giving it a star ⭐️ and acknowledging the original author.***
+***If you find this repository useful, kindly consider giving it a star ⭐️***
 
 > Note: It's important to acknowledge that the accuracy and reliability of the forecasting model may be limited by the size and characteristics of the dataset. Carefully evaluate the model's performance and make necessary adjustments based on your specific requirements.
