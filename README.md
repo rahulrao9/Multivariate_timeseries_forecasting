@@ -2,7 +2,7 @@
 This repository demonstrates the application of Long Short-Term Memory (LSTM) models for multivariate time-series forecasting, specifically designed for small datasets. The LSTM model is a powerful tool for capturing temporal dependencies in data, making it ideal for predicting future values in multivariate time-series data.
 
 ### Dataset
-Before diving into the forecasting process, it is crucial to properly preprocess the dataset. This includes handling missing values, scaling variables, and splitting the data into training and testing sets. It's important to note that small datasets have limited information, higher noise levels, and less representative patterns compared to larger datasets. Hence, handling them with care is essential.
+Before diving into the forecasting process, it is crucial to properly preprocess the dataset. This includes handling missing values, scaling variables, and splitting the data into training and testing sets. It's important to note that small datasets have limited information, higher noise levels, and less representative patterns compared to larger datasets. Hence, handling them with care is essential. The dataset used here is quarterly income statement of Adani Ports, a subsidiary of the Adani Group, a prominent conglomerate company in India, spanning the past 18 years. All the values in the dataset are in INR (in crores, i.e, 10 million)
 
 ### Model Architecture
 The core of this project lies in designing an effective LSTM architecture for multivariate time-series forecasting. The steps involved are as follows:
